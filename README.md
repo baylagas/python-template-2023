@@ -17,6 +17,12 @@ The purpose of this project is to use to play around. It uses pipenv and has its
 pip install pipenv --user
 ```
 
+## Create a new virtual environment
+
+```bash
+pipenv shell
+```
+
 ## Install requirements
 
 ```bash
